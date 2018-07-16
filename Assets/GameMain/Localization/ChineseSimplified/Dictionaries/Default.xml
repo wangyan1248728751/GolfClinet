@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+  <Dictionary Language="ChineseSimplified">
+    <String Key="Game.Name" Value="高尔夫模拟" />
+    <String Key="Game.Description" Value="高尔夫模拟 演示程序" />
+
+    <String Key="Login.AccountNumber" Value="账 号" />
+    <String Key="Login.PassWord" Value="密 码" />
+    <String Key="Login.LogonButton" Value="登  录" />
+    <String Key="Login.VisitorLogonButton" Value="游客登录" />
+    <String Key="Login.TestLoginButton" Value="测试一键登录" />
+    <String Key="Login.RegisterButton" Value="注  册" />
+    <String Key="Login.AutomaticLogon" Value="自动登录" />
+    <String Key="Login.ForgotPasswordButton" Value="忘记密码" />
+    <String Key="Login.QuitButton" Value="返回" />
+    <String Key="Login.AccountDefault" Value="请输入手机号" />
+    <String Key="Login.PassWordDefault" Value="请输入密码" />
+    <String Key="Login.VisitorButton" Value="游客登录" />
+    <String Key="Login.Logining" Value="登录中，请稍候......" />
+    <String Key="Register.PhoneNumber" Value="手机号" />
+    <String Key="Register.VerificationCode" Value="验证码" />
+    <String Key="Register.Password" Value="密    码" />
+    <String Key="Register.QuitButton" Value="返回" />
+    <String Key="Register.SendAuthenticationCode" Value="发送验证码" />
+    <String Key="Register.SendFailure" Value="手机号码不存在，请重试！" />
+    <String Key="Register.RegisterButton" Value="注  册" />
+    <String Key="Register.AccountDefault" Value="请输入手机号" />
+    <String Key="Register.PassWordDefault" Value="请输入密码" />
+    <String Key="Register.AuthDefault" Value="请输入验证码" />
+    <String Key="PasswordRetrieval.PasswordRetrievalButton" Value="找回密码" />
+    <String Key="PasswordRetrieval.PhoneNumber" Value="手机号" />
+    <String Key="PasswordRetrieval.QuitButton" Value="返回" />
+    <String Key="PasswordRetrieval.AccountDefault" Value="请输入手机号" />
+    
+    <String Key="Game.Website" Value="" />
+    <String Key="Game.Summary" Value="" />
+    <String Key="Game.Introduction" Value="" />
+    <String Key="Menu.StartButton" Value="开始" />
+    <String Key="Menu.SettingButton" Value="设置" />
+    <String Key="Menu.AboutButton" Value="关于" />
+    <String Key="Menu.QuitButton" Value="退出" />
+    <String Key="friendmode" Value="好友竞技模式"/>
+    <String Key="onlinemode" Value="在线奖励模式"/>
+    <String Key="Dialog.ConfirmButton" Value="确定" />
+    <String Key="Dialog.CancelButton" Value="取消" />
+    <String Key="Dialog.OtherButton" Value="" />
+    <String Key="ForceUpdate.Title" Value="强制更新" />
+    <String Key="ForceUpdate.Message" Value="当前游戏版本过旧，是否前往更新？" />
+    <String Key="ForceUpdate.UpdateButton" Value="更新" />
+    <String Key="ForceUpdate.QuitButton" Value="退出" />
+    <String Key="AskQuitGame.Title" Value="确认退出" />
+    <String Key="AskQuitGame.Message" Value="是否确认退出游戏？" />
+    <String Key="Setting.Title" Value="设置" />
+    <String Key="Setting.boxIdTitle" Value="设备号 : SKYTRAK_" />
+    <String Key="Setting.boxIdDetail" Value="请输入设备号" />
+    <String Key="Setting.shopIdTitle" Value="球场ID : " />
+    <String Key="Setting.shopIdDetail" Value="请输入球场ID" />
+    <String Key="Setting.Music" Value="音乐" />
+    <String Key="Setting.Sound" Value="音效" />
+    <String Key="Setting.UISound" Value="界面音效" />
+    <String Key="Setting.Language" Value="语言" />
+    <String Key="Setting.LanguageTips" Value="更改语言需要重启游戏" />
+
+    <String Key="ToolTip.NoNull" Value="帐号或密码不能为空" />
+    <String Key="ToolTip.NoNetWork" Value="网络异常" />
+    <String Key="ToolTip.NoExist" Value="账号不存在" />
+    <String Key="ToolTip.UserError" Value="您输入的不是手机号" />
+    <String Key="ToolTip.Null" Value="" />
+    <String Key="ToolTip.NoName" Value="昵称不能为空" />
+    <String Key="ToolTip.IllegalCharacter" Value="包含非法字符，请重新输入" />
+    <String Key="ToolTip.InputNoNull" Value="输入不能为空" />
+    <String Key="ToolTip.PwdNum" Value="密码不能低于六位数" />
+    <String Key="ToolTip.AuthCodeError" Value="验证码不正确" />
+    <String Key="ToolTip.SendAuthCode" Value="发送验证码" />
+    <String Key="QRCode.tips" Value="无法获取设备号对应二维码!" />
+
+    <String Key="TestHit" Value="测试发球" />
+    <String Key="ResetGame" Value="再来一局" />
+    <String Key="CloseGame" Value="结束游戏" />
+
+    <String Key="pathBtnEnum.none" Value="不显示" />
+    <String Key="pathBtnEnum.one" Value="上一球" />
+    <String Key="pathBtnEnum.more" Value="上三球" />
+
+    <String Key="ResetGameCameraPos" Value="下一球" />
+
+    <String Key="userIdTitle" Value="账户ID:" />
+    <String Key="userNameTitle" Value="账户名:" />
+    <String Key="needNewName" Value="请输入新用户名" />
+    <String Key="deleteGoodsBtn" Value="核销" />
+    <String Key="joinus" Value="加入我们了解最新信息"/>
+
+
+    <String Key="distance" Value="飞行距离" />
+    <String Key="maxHeight" Value="最大高度" />
+    <String Key="speed" Value="出球速度" />
+    <String Key="launchAngle" Value="发射角" />
+    <String Key="horizontalAngle" Value="偏转角" />
+    <String Key="backSpin" Value="倒旋" />
+    <String Key="sideSpin" Value="侧旋" />
+
+    <String Key="MiniScoreEnum.none" Value="显示奖励" />
+    <String Key="MiniScoreEnum.score" Value="显示奖励" />
+    <String Key="MiniScoreEnum.pic" Value="显示奖励" />
+    <String Key="MiniScoreEnum.all" Value="隐藏奖励" />
+
+
+    <String Key="uploadNeedText" Value="点击输入昵称" />
+    <String Key="uploadBtn" Value="上传排名" />
+
+    <String Key="3D" Value="CG3D" />
+    <String Key="chooseTime" Value="请选择时间"/>
+    <String Key="Hour" Value="小时"/>
+    <String Key="startGame" Value="开始游戏" />
+    <String Key="Username" Value="账户名:" />
+    <String Key="Userid" Value="账户ID:" />
+    <String Key="Quit" Value="退出登录" />
+    <String Key="teach" Value="视频教学" />
+    <String Key="mall" Value="商城" />
+    <String Key="WeChatPay" Value="微信支付"/>
+    <String Key="结算" Value="结算" />
+    <String Key="排行榜" Value="排行榜" />
+    <String Key="yes" Value="确定" />
+    <String Key="oneplayer" Value="一号玩家"/>
+    <String Key="twoplayer" Value="二号玩家"/>
+    <String Key="wintip" Value="占领全部岛屿的玩家将取得胜利！"/>
+    <String Key="id.1" Value="1" />
+    <String Key="id.2" Value="2" />
+    <String Key="id.3" Value="3" />
+    <String Key="id.4" Value="4" />
+    <String Key="id.5" Value="5" />
+    <String Key="id.6" Value="6" />
+    <String Key="id.7" Value="7" />
+    <String Key="id.8" Value="8" />
+    <String Key="id.9" Value="9" />
+    <String Key="id.10" Value="10" />
+    
+    
+  </Dictionary>
+</Dictionaries>

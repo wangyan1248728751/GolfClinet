@@ -1,0 +1,20 @@
+﻿#	界面配置表					
+#	Id		AssetName	UIGroupName	AllowMultiInstance	PauseCoveredUIForm
+#	int		string	string	bool	bool
+#	界面编号	策划备注	资源名称	界面组名称	是否允许多个界面实例	是否暂停被其覆盖的界面
+	1	弹出框	DialogForm	Overlay	TRUE	TRUE
+	80	宣传视频	VideoForm	Default	FALSE	TRUE
+	90	登陆	LoginForm	Default	FALSE	TRUE
+	91	注册	RegisterForm	Default	FALSE	TRUE
+	92	老注册	OldLoginForm	Default	FALSE	TRUE
+	93	二维码登陆	QRCodeLoginForm	Default	FALSE	TRUE
+	100	主菜单	MenuForm	Default	FALSE	TRUE
+	101	设置	SettingForm	Default	FALSE	TRUE
+	102	关于	AboutForm	Default	FALSE	TRUE
+	110	用户信息	UserForm	MainUser	TRUE	FALSE
+	111	用户背包	UserInfoForm	MainUser	TRUE	FALSE
+	115	单球信息界面	BallInfoForm	MainUser	FALSE	FALSE
+	120	结算界面	ResultForm	MainUser	TRUE	FALSE
+	130	排行榜	LeaderboardForm	Overlay	TRUE	FALSE
+	200	消息	MessageForm	Overlay	TRUE	FALSE
+	300	功能	FunctionForm	Default	FALSE	TRUE

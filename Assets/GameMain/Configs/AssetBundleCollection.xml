@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <AssetBundleCollection>
+    <AssetBundles>
+      <AssetBundle Name="GameMain/Animator/SenceCamera/GameCamera" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Animator/SenceCamera/StartRiseMid" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Animator/UI/GetScore" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Animator/UI/ScoreUI" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Configs/AssetBundleCollection" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/Aircraft" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/Armor" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/Asteroid" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/Entity" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/Music" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/RewardMap" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/Scene" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/Sound" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/Thruster" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/UIForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/UISound" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/DataTables/Weapon" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/path_003" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/path_006" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/path_008" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/piont_001" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/piont_003" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/ring_001" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/smoke_001" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/smoke_002" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/smoke_003" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/smoke_004" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/smoke_005" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/wenli_014" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/materials/xulie1x2_002" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/mesh/fangge_plane" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/prefab/tx_fangge" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/prefab/tx_huichentuowei" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/prefab/tx_jida" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/prefab/tx_luodi" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/prefab/tx_luoshui" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/prefab/tx_tuowei" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/path_003" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/path_006" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/path_008" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/path_014" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/piont_001" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/piont_003" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/ring_001" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/smoke_001" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/smoke_002" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/smoke_003" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/smoke_004" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/smoke_005" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/wenli_014" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/wuti_line" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/texture/xulie1x2_002" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/Water/caodi_shui" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Effect/Water/cj_aihao_shui1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Entities/FlightPathLine" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Localization/ChineseSimplified/Dictionaries/Default" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Localization/ChineseSimplified/Fonts/MainFont" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/defaultMaterial" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/dimian" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/FlightPathLine" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/ball" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/bj1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/bj2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/bj3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/bj4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/caodi2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/caopi" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/dizhuan" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/hcst" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/island1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/island2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/island3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/island4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/island5" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/island6" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/island7" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/island8" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/lotus" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/phong8" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/qiu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/qiuchang" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/tiesiwang" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/tree1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/tree2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/tree3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/tree4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/tree5" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/Trees" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/water" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/golf/zhiwu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/LineEnd" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/Plane" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/tu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Materials/video" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/ModelPres/dimian" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/ModelPres/golf" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/ModelPres/Light" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/ModelPres/Treesbj1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/ModelPres/tu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/bj" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/bjfbm/bj1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/bjfbm/bj2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/bjfbm/bj3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/bjfbm/bj4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/dimian" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golf" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/ball" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/ball_N" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/caodi2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/caopi" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/caopi_N" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/dizhuan" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/dizhuan_N" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/qiuchang" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/qiuchang_N" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/tiesiwang" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/golffbm/Trees" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/huacao" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/huacaofbm/hcst" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/island" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/islandfbm/island1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/islandfbm/island2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/islandfbm/island3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/islandfbm/island4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/islandfbm/island5" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/islandfbm/island6" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/islandfbm/island7" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/islandfbm/island8" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/lotus" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/lotusfbm/lotus" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/ball" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/bj1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/bj2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/bj3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/bj4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/caodi2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/caopi" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/dizhuan" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/hcst" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/island1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/island2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/island3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/island4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/island5" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/island6" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/island7" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/island8" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/lotus" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/phong8" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/qiuchang" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/tiesiwang" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/tree1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/tree2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/tree3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/tree4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/tree5" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/Trees" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Materials/zhiwu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/rocks" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/rocksfbm/hcst" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Trees" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Treesfbm/tree1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Treesfbm/tree2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Treesfbm/tree3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Treesfbm/tree4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/Treesfbm/tree5" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/tu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/zhiwu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Models/zhiwufbm/zhiwu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Music/music_about" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Music/music_background" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Music/music_menu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Scenes/Main" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Scenes/Menu" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Scenes/UIMake" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Shader/FlightPathLine" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Shader/FXWaterPro" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Shader/loading" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Shader/Water" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/skybox/Skybox" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/skybox/Skybox_back" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/skybox/Skybox_down" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/skybox/Skybox_front" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/skybox/Skybox_left" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/skybox/Skybox_right" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/skybox/Skybox_up" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Sounds/explosion_asteroid" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Sounds/explosion_enemy" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Sounds/explosion_player" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Sounds/weapon_enemy" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Sounds/weapon_player" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/fx_lazer_cyan_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/fx_lazer_orange_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/island_dimian" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/part_enginePulse_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/part_flash_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/part_jet_core_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/part_jet_flare_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/part_shockwave_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/part_spark_large_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/part_spark_small_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/part_star_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/prop_asteroid_01_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/prop_asteroid_01_nrm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/prop_asteroid_02_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/prop_asteroid_02_nrm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/prop_asteroid_03_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/prop_asteroid_03_nrm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/tile_nebula_green_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/vehicle_enemyShip_nrm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/vehicle_enemyShip_purple_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/vehicle_playerShip_orange_dff" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/vehicle_playerShip_orange_nrm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/WaterBump" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/WaterFresnel" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/Textures/WaterProDaytimeGradient" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/AboutForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/BallInfoForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/DialogForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/FunctionForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/LeaderboardForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/LoginForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/MenuForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/MessageForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/OldLoginForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/PasswordRetrievalForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/QRCodeLoginForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/RegisterForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/ResultForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/SettingForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/UserForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/UserInfoForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UIForms/VideoForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISounds/click" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISounds/select" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Buttons/btn_back" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Buttons/btn_common_yellow" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/background" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/box" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/button-filled" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/button-outline" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/checked" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/circle" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/circle-filled" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/circle-outline" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/cricle" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/dialog-background" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/dialog-title-background" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/FlightPathLine" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/img_common_bg2_big" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/info" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/line" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/loginbutton" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/progressbar" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/progressbar-background" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/progress-conner" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/round-button-filled" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Common/round-button-outline" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/CreateRole/btn_changingroom_close" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/CreateRole/btn_common_red" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/CreateRole/btnBack" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/CreateRole/img_showcase_editrole" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/CreateRole/loginbg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/CreateRole/loginbutton" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/CreateRole/logininput" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Icons/icon_null" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Icons/music" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Icons/sound" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Icons/world" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Images/img_board_box" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Images/img_input_textbg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Images/img_map_palyername_bg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Images/img_notes_bg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Images/img_serverlist_bg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Images/img_setcode_on" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Logos/unity-logo" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/result/bg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/result/paiwei1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/result/paiwei2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/result/paiwei3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/result/paiwei4" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/result/paiwei5" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/result/shadow" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/result/title" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/661986095682202477" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/bag" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/bag_bg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/bg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/golf" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/golf_ball" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/jiesuan" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/miniMap" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/name_bg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/paihangbang" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/plus2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/rank_item" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/rank1" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/rank2" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/rank3" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/red_point" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/remove" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/score_bg" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/small_score" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/total_score" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/WHITE" LoadType="0" Packed="False" />
+      <AssetBundle Name="GameMain/UI/UISprites/Sprite/xuxian" LoadType="0" Packed="False" />
+    </AssetBundles>
+    <Assets>
+      <Asset Guid="005ba71c75858ab44becc5110f3177ce" AssetBundleName="GameMain/Models/Materials/Trees" />
+      <Asset Guid="00b38305a861c44539f0590edda0e8df" AssetBundleName="GameMain/Shader/FlightPathLine" />
+      <Asset Guid="0179316b5fc7c2946a67c5877c02fc30" AssetBundleName="GameMain/UI/UISprites/Common/info" />
+      <Asset Guid="021ffab0343a6b6428b8dba3d0c83580" AssetBundleName="GameMain/Effect/texture/wuti_line" />
+      <Asset Guid="02494df10b536e74d9e8fbb85829c1e0" AssetBundleName="GameMain/Materials/golf/bj3" />
+      <Asset Guid="027f79f50b15c7c43b439e8d5127be72" AssetBundleName="GameMain/UI/UISprites/Images/img_input_textbg" />
+      <Asset Guid="035620647a1a95542a93c20d158b3f14" AssetBundleName="GameMain/Models/zhiwu" />
+      <Asset Guid="0366c82f00da6b74185aea938bcc0a34" AssetBundleName="GameMain/Effect/texture/piont_003" />
+      <Asset Guid="04d7dde7615d71b4db1a0c8d67a62e95" AssetBundleName="GameMain/UI/UIForms/DialogForm" />
+      <Asset Guid="04dbc0581071c254ea6564b2ff06ff9b" AssetBundleName="GameMain/Textures/part_shockwave_dff" />
+      <Asset Guid="0570240b26ebef24183d24415ec7a4be" AssetBundleName="GameMain/Materials/golf/caopi" />
+      <Asset Guid="06623a12bdb92b74aa854eb790841064" AssetBundleName="GameMain/Materials/golf/hcst" />
+      <Asset Guid="07dd761a58343f940a3a89078340f02e" AssetBundleName="GameMain/UI/UISprites/Sprite/661986095682202477" />
+      <Asset Guid="0875d35f5e7c31b4bad1bcbb1e5e30dc" AssetBundleName="GameMain/UI/UISprites/Sprite/total_score" />
+      <Asset Guid="08c4c789c474bfc4094745290dff8061" AssetBundleName="GameMain/Models/huacaofbm/hcst" />
+      <Asset Guid="093f8873cfe371d41b854ed9fb6bff69" AssetBundleName="GameMain/Music/music_about" />
+      <Asset Guid="0963e6c65b2b1f74d9f455e21901e2dc" AssetBundleName="GameMain/Textures/part_jet_core_dff" />
+      <Asset Guid="09858d3593c36b44bbb21ac2a9e85471" AssetBundleName="GameMain/Materials/golf/lotus" />
+      <Asset Guid="09966b19e546cc94aa84d0743cb2a83d" AssetBundleName="GameMain/UI/UIForms/MenuForm" />
+      <Asset Guid="0a2bc355eb1a57c43a980f18da593c58" AssetBundleName="GameMain/UI/UISprites/Images/img_notes_bg" />
+      <Asset Guid="0a65a68c01a76ea4b8b574827a6467aa" AssetBundleName="GameMain/UI/UISprites/Common/dialog-title-background" />
+      <Asset Guid="0b0d27128d0d8394ea7c768878506c69" AssetBundleName="GameMain/Effect/materials/path_008" />
+      <Asset Guid="0be2d463739ddad4aa4a0d4e6a9de47d" AssetBundleName="GameMain/Shader/FXWaterPro" />
+      <Asset Guid="0c1a42c5dc8f2cb4facfec38c0bff148" AssetBundleName="GameMain/Models/Materials/dizhuan" />
+      <Asset Guid="0d89fc24b56a63d4ca4ce1c611afe20b" AssetBundleName="GameMain/Models/Materials/island2" />
+      <Asset Guid="0dad8914e7c33d644964d1d50834f0ac" AssetBundleName="GameMain/Effect/prefab/tx_fangge" />
+      <Asset Guid="0e62552eb988d7b41893737b49884203" AssetBundleName="GameMain/Models/islandfbm/island5" />
+      <Asset Guid="0f9a41bb625ec6744b5208c06dc7557a" AssetBundleName="GameMain/Models/island" />
+      <Asset Guid="0fd3b5daa3a414f49b3b2f8b5e1c2fa5" AssetBundleName="GameMain/Models/Materials/tree3" />
+      <Asset Guid="107fb8365d223154895b7e9d6888b97e" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="12afc9a805fa9924bbe80ea92f2ce739" AssetBundleName="GameMain/Models/tu" />
+      <Asset Guid="1342f55939e764e4ba2ac710e82abc1b" AssetBundleName="GameMain/Models/rocksfbm/hcst" />
+      <Asset Guid="13c680f0f0502554da6e1a0e8bfa5028" AssetBundleName="GameMain/UI/UISprites/Buttons/btn_common_yellow" />
+      <Asset Guid="13e54e3e9702f884e9dc931dd83288d3" AssetBundleName="GameMain/Models/Materials/qiuchang" />
+      <Asset Guid="1478894bc9a1ed241b05b0862a7b8bce" AssetBundleName="GameMain/Textures/part_spark_small_dff" />
+      <Asset Guid="1501de3745c5e2148b05267560ce84a8" AssetBundleName="GameMain/Models/golffbm/dizhuan_N" />
+      <Asset Guid="151aeda4cf5ebe14894094c69740fd4c" AssetBundleName="GameMain/Effect/texture/path_014" />
+      <Asset Guid="156a451ccee7f464b8990e45d2fb128e" AssetBundleName="GameMain/Effect/materials/piont_003" />
+      <Asset Guid="156d241f796508c4da4fc354a7fbf5a8" AssetBundleName="GameMain/UI/UISprites/Common/progressbar-background" />
+      <Asset Guid="16199046c5cc2714096b5f0caded090a" AssetBundleName="GameMain/Models/golffbm/caopi_N" />
+      <Asset Guid="17c9c34e00c25dd4596c7475c5c21d06" AssetBundleName="GameMain/Models/Trees" />
+      <Asset Guid="17e4e41bc57ec5b4e8bf88b96992199d" AssetBundleName="GameMain/Animator/SenceCamera/StartRiseMid" />
+      <Asset Guid="18e1ca75660080f418f3f70c419a19ba" AssetBundleName="GameMain/Models/golffbm/qiuchang_N" />
+      <Asset Guid="193f337540f0a6f468c9dc384e4a395c" AssetBundleName="GameMain/Materials/golf/caodi2" />
+      <Asset Guid="19834c6086af1e34fbe6b920f1b1c99f" AssetBundleName="GameMain/UI/UISprites/Sprite/rank3" />
+      <Asset Guid="1be4472894949437694aead55c6da60f" AssetBundleName="GameMain/Sounds/weapon_enemy" />
+      <Asset Guid="1c89236d45255234ebd1d39657ff7e02" AssetBundleName="GameMain/Textures/part_star_dff" />
+      <Asset Guid="1ecf43eb9341ca44b97b0c280851fea0" AssetBundleName="GameMain/ModelPres/Treesbj1" />
+      <Asset Guid="1f16e5767b4d6b64c98a9f245e37b9dd" AssetBundleName="GameMain/Models/dimian" />
+      <Asset Guid="213d37dddc06b254fa547cfe3f0c221e" AssetBundleName="GameMain/UI/UISprites/Sprite/small_score" />
+      <Asset Guid="21cb877b787005e4196eb56cb2db29db" AssetBundleName="GameMain/UI/UIForms/PasswordRetrievalForm" />
+      <Asset Guid="21e55ffa8de66f44b84b19f509334d79" AssetBundleName="GameMain/Models/rocks" />
+      <Asset Guid="220cb937ae615424c95b3e76b4cf43ca" AssetBundleName="GameMain/Models/rocks" />
+      <Asset Guid="22ce0c6853fd297498b3079c04c31d11" AssetBundleName="GameMain/Models/Materials/hcst" />
+      <Asset Guid="236433a27ce40a7429b87d14d8fa3035" AssetBundleName="GameMain/UI/UISprites/Common/progress-conner" />
+      <Asset Guid="23da253aaea4843c194df0e29ed3f1ab" AssetBundleName="GameMain/UI/UISprites/Icons/icon_null" />
+      <Asset Guid="24ca310f92a6796408f1db7647ec4e55" AssetBundleName="GameMain/UI/UISprites/Common/circle" />
+      <Asset Guid="2578aefe76193db4ea8240154660368f" AssetBundleName="GameMain/skybox/Skybox_right" />
+      <Asset Guid="27fa9f0113adccd448c6312fd3eed74d" AssetBundleName="GameMain/UI/UISprites/Sprite/plus2" />
+      <Asset Guid="283e471c86b765d4085ed7fd97b7eff8" AssetBundleName="GameMain/UI/UISprites/Sprite/paihangbang" />
+      <Asset Guid="28d130b23ee4eb9489e3080168049225" AssetBundleName="GameMain/Models/Materials/zhiwu" />
+      <Asset Guid="28fccc78ac728e14393fe119645b8b9c" AssetBundleName="GameMain/Models/Treesfbm/tree3" />
+      <Asset Guid="29139276bdb54994ab6f99e866951aa8" AssetBundleName="GameMain/Textures/WaterBump" />
+      <Asset Guid="2a95cceaaea02da4ca177d831ccaabd9" AssetBundleName="GameMain/ModelPres/Light" />
+      <Asset Guid="2ba9808a6a1eff1408d0e9248d3edcf5" AssetBundleName="GameMain/UI/UISprites/CreateRole/btn_common_red" />
+      <Asset Guid="2cb5eef4d7d7bf6459dd13a3f8d90246" AssetBundleName="GameMain/Textures/part_jet_flare_dff" />
+      <Asset Guid="2d78aaaa8b3464247a046634cc559f43" AssetBundleName="GameMain/UI/UISprites/Sprite/name_bg" />
+      <Asset Guid="2dbb3f18590b946f88b82dad5dbd45ea" AssetBundleName="GameMain/DataTables/RewardMap" />
+      <Asset Guid="2e3c8f64217fb3848909b1b25d3d5613" AssetBundleName="GameMain/Materials/golf/tree3" />
+      <Asset Guid="2e3d722374d9cdf4396d95efe6c998cb" AssetBundleName="GameMain/Materials/golf/island2" />
+      <Asset Guid="2f2c3662a588eac4ebc1d4aa54abde4f" AssetBundleName="GameMain/Effect/texture/smoke_002" />
+      <Asset Guid="300b47470a9aead44ad999bd384ce727" AssetBundleName="GameMain/Models/island" />
+      <Asset Guid="315e8ed2db27c254cb3366ff0793cd90" AssetBundleName="GameMain/DataTables/Music" />
+      <Asset Guid="31eff5bfa9262094990443f6f9a4e0ca" AssetBundleName="GameMain/UI/UISprites/Sprite/bag_bg" />
+      <Asset Guid="34308ac9f67b3f148bb5296b292f21fe" AssetBundleName="GameMain/Models/golffbm/caodi2" />
+      <Asset Guid="348e8ca71b918c04b92802959cb744fb" AssetBundleName="GameMain/Materials/golf/bj2" />
+      <Asset Guid="349c88852565d5c408ab9f50d6393daf" AssetBundleName="GameMain/ModelPres/golf" />
+      <Asset Guid="34a7d5549cf084a7c903a989d954924d" AssetBundleName="GameMain/Materials/defaultMaterial" />
+      <Asset Guid="350d3dfdc1381a848a631bc72646f6d9" AssetBundleName="GameMain/UI/UIForms/BallInfoForm" />
+      <Asset Guid="352da872791696c48af3b21132e3e3c3" AssetBundleName="GameMain/DataTables/UIForm" />
+      <Asset Guid="358f9d3f3852cdb43bf461947c13dfa5" AssetBundleName="GameMain/Materials/dimian" />
+      <Asset Guid="36335e41ffbc09945b94439c88978808" AssetBundleName="GameMain/Effect/materials/wenli_014" />
+      <Asset Guid="372a8b1e52bedc64b9207b12d167afaa" AssetBundleName="GameMain/DataTables/Sound" />
+      <Asset Guid="390db7a26c5a5e14486e549448918e1f" AssetBundleName="GameMain/UI/UISprites/Images/img_board_box" />
+      <Asset Guid="3942c6a955fb75248a06ee73580c705d" AssetBundleName="GameMain/Models/Treesfbm/tree4" />
+      <Asset Guid="39e9df1f92ffbe142993451f78350f61" AssetBundleName="GameMain/Animator/UI/GetScore" />
+      <Asset Guid="3aa539b1e46111d4299a83c73ebe762c" AssetBundleName="GameMain/UI/UIForms/AboutForm" />
+      <Asset Guid="3addeedbe18cb7a4ea249121c23fafb4" AssetBundleName="GameMain/Materials/golf/tree1" />
+      <Asset Guid="3b2ef3ff144766649a91ec9e69c204d5" AssetBundleName="GameMain/UI/UIForms/UserInfoForm" />
+      <Asset Guid="3bd94951bf1543b408b60c7ef66c2f8c" AssetBundleName="GameMain/Models/islandfbm/island7" />
+      <Asset Guid="3be16b01496990d4c845d6882280cc6a" AssetBundleName="GameMain/Effect/Water/caodi_shui" />
+      <Asset Guid="3be3fac3611f4584695662c4889f722d" AssetBundleName="GameMain/UI/UISprites/Common/circle-outline" />
+      <Asset Guid="3c266bc2157e8db4ba30908fc2cf7969" AssetBundleName="GameMain/Models/bj" />
+      <Asset Guid="3dc7455402dfa462b89a4bbd513955e9" AssetBundleName="GameMain/Sounds/explosion_asteroid" />
+      <Asset Guid="3e504a46a8fcec34db3c4776530c6eb2" AssetBundleName="GameMain/Textures/part_flash_dff" />
+      <Asset Guid="3f030fc8fc850074ea9f11890ac34b1d" AssetBundleName="GameMain/Models/lotus" />
+      <Asset Guid="3f54fcfdac53aec42ae18a6a1c6d8cb1" AssetBundleName="GameMain/UI/UISprites/Common/checked" />
+      <Asset Guid="3f7f583ec1f5b4241adec070ba42272a" AssetBundleName="GameMain/Scenes/UIMake" />
+      <Asset Guid="40ae5d5bce97ab144ad9c9a8e171780c" AssetBundleName="GameMain/Models/bj" />
+      <Asset Guid="40fd634ffcb208b4999e6f8cee638670" AssetBundleName="GameMain/Models/Treesfbm/tree1" />
+      <Asset Guid="410b3bd0f59130b469887f01aa47233a" AssetBundleName="GameMain/UI/UISprites/CreateRole/loginbg" />
+      <Asset Guid="42e34ab88b824cd40b0b02ff222dc0fc" AssetBundleName="GameMain/Models/Trees" />
+      <Asset Guid="433eef9fb3e445f46ab60f183b111af8" AssetBundleName="GameMain/Materials/golf/phong8" />
+      <Asset Guid="43fee947c14024b42bb1ceaef0991544" AssetBundleName="GameMain/Models/Materials/island7" />
+      <Asset Guid="4473d81b14ddb0143addf0e6050d8491" AssetBundleName="GameMain/Scenes/Main" />
+      <Asset Guid="46637a2021014154dac184f25863b62a" AssetBundleName="GameMain/UI/UISprites/CreateRole/btnBack" />
+      <Asset Guid="471d873940b2e08429f8c867c4c0c0e4" AssetBundleName="GameMain/UI/UISprites/result/paiwei3" />
+      <Asset Guid="47450e715a303634f90d83f0b158e577" AssetBundleName="GameMain/Models/Materials/bj3" />
+      <Asset Guid="4897b282e80e14f3abc6cba2b37cbb1a" AssetBundleName="GameMain/Materials/video" />
+      <Asset Guid="4a86df7ecdc16064997fc8d4ff78e75e" AssetBundleName="GameMain/Models/lotusfbm/lotus" />
+      <Asset Guid="4d06bdaf33d1c4c42ac2f7d7073c31d8" AssetBundleName="GameMain/UI/UISprites/Sprite/rank2" />
+      <Asset Guid="4d96aa54176633840859eeec9de9bb68" AssetBundleName="GameMain/Configs/AssetBundleCollection" />
+      <Asset Guid="4f688097e85071841a2c3ba165000c20" AssetBundleName="GameMain/Textures/vehicle_playerShip_orange_dff" />
+      <Asset Guid="4f72d693971ee164299875a62dd8ea28" AssetBundleName="GameMain/Models/Materials/island3" />
+      <Asset Guid="508c0a42d3529934eb706a7331605f18" AssetBundleName="GameMain/Models/island" />
+      <Asset Guid="5193c337a171a954582de29d8aa6657c" AssetBundleName="GameMain/skybox/Skybox_down" />
+      <Asset Guid="53ac43c3ad244cf49b5b8be0318f32de" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="53b393f1d29294282bcc170e40d173ea" AssetBundleName="GameMain/Materials/FlightPathLine" />
+      <Asset Guid="540942c1873a2d04bb2fbe2168c65514" AssetBundleName="GameMain/Materials/Plane" />
+      <Asset Guid="5517ee51907b29042a690a018382aab7" AssetBundleName="GameMain/UI/UISprites/Images/img_map_palyername_bg" />
+      <Asset Guid="5608f0de94a8b0447b565eb6d4a6553c" AssetBundleName="GameMain/Effect/Water/cj_aihao_shui1" />
+      <Asset Guid="5630a3f17138b214e82c5673285bcf19" AssetBundleName="GameMain/Models/Materials/bj2" />
+      <Asset Guid="5645e4dc29bd42941bbf764cabf027b0" AssetBundleName="GameMain/Materials/golf/tiesiwang" />
+      <Asset Guid="56b8df63bbad60749a69e38bc687fadf" AssetBundleName="GameMain/UI/UISprites/Common/circle-filled" />
+      <Asset Guid="56c1a3b2f4e212e4a8fa080b836580d4" AssetBundleName="GameMain/Materials/golf/zhiwu" />
+      <Asset Guid="5807023212e6c19468c712053db9582a" AssetBundleName="GameMain/Textures/WaterFresnel" />
+      <Asset Guid="58de82cef84dae541b4247d12858c9a3" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="5a0d2b30d8053af46b97c2fdf4f92c43" AssetBundleName="GameMain/Models/island" />
+      <Asset Guid="5a67dbedb8c72dd4aaeef6cc4324243d" AssetBundleName="GameMain/UI/UIForms/FunctionForm" />
+      <Asset Guid="5c7f2587ccfe4114d80b8b31c47eb4a1" AssetBundleName="GameMain/Models/island" />
+      <Asset Guid="5cb3e132d8a5c00429fbf6465e5cc3ed" AssetBundleName="GameMain/Effect/prefab/tx_luodi" />
+      <Asset Guid="5cf24c04dee70eb4f80d7f51a3caa76e" AssetBundleName="GameMain/Effect/prefab/tx_huichentuowei" />
+      <Asset Guid="5db5a529216a9b041894f8aca678be9a" AssetBundleName="GameMain/UI/UISprites/Common/img_common_bg2_big" />
+      <Asset Guid="5e255efa6e04ff64c88392ad83616b90" AssetBundleName="GameMain/UI/UIForms/LeaderboardForm" />
+      <Asset Guid="5f0a0254cf8254d4d8706aa13c937b2a" AssetBundleName="GameMain/Effect/texture/smoke_003" />
+      <Asset Guid="60263eb51199d094ea0a071f7a9f3158" AssetBundleName="GameMain/UI/UISprites/CreateRole/btn_changingroom_close" />
+      <Asset Guid="61c344dcb174257498830cdcba1f677e" AssetBundleName="GameMain/Models/golffbm/tiesiwang" />
+      <Asset Guid="61e1cec6ba9d57048b23ec05dc26602b" AssetBundleName="GameMain/Effect/materials/xulie1x2_002" />
+      <Asset Guid="62af9e5c8f39cfa49af9e10ccf42f1da" AssetBundleName="GameMain/UI/UISprites/Common/round-button-outline" />
+      <Asset Guid="6368f1d31901c8f46b3a72be17cc9b25" AssetBundleName="GameMain/Textures/island_dimian" />
+      <Asset Guid="6388f7127e171144990856f4ed83d2a9" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="638ff8ae4a0d15047839cd265d3bc296" AssetBundleName="GameMain/Music/music_background" />
+      <Asset Guid="64d37201ff8b34cc6ba2205accb147d2" AssetBundleName="GameMain/Entities/FlightPathLine" />
+      <Asset Guid="64f3bb52c6a54854688fcc656af2b1c9" AssetBundleName="GameMain/DataTables/Aircraft" />
+      <Asset Guid="65871f5372f18544184f795b293b42a3" AssetBundleName="GameMain/Effect/texture/xulie1x2_002" />
+      <Asset Guid="65bdd610722c7ac42b7bd4b13769473c" AssetBundleName="GameMain/UI/UISprites/Images/img_setcode_on" />
+      <Asset Guid="6654806762352be4dabacf3aee320c1b" AssetBundleName="GameMain/UI/UISprites/Sprite/rank1" />
+      <Asset Guid="665dceb4f5ad64a4c86f003c42f7648a" AssetBundleName="GameMain/Models/Trees" />
+      <Asset Guid="6793aefc12c7e7b4a85705fee6382244" AssetBundleName="GameMain/skybox/Skybox_left" />
+      <Asset Guid="699196308b8e36745a6b926269e6cfda" AssetBundleName="GameMain/Models/Materials/island4" />
+      <Asset Guid="69b7ac3311e7a0c48a07b4e7a43856bd" AssetBundleName="GameMain/Shader/Water" />
+      <Asset Guid="6a0ae77eda8fa664f87dd10d048c2cff" AssetBundleName="GameMain/Models/bj" />
+      <Asset Guid="6a1bf0b06c64b32439b76fcc5f72fac3" AssetBundleName="GameMain/UI/UISprites/result/bg" />
+      <Asset Guid="6b58197bc23a69c4ab6512a2cda9c44e" AssetBundleName="GameMain/Materials/golf/island7" />
+      <Asset Guid="6b612d8d0941b0948a61d44fbb934108" AssetBundleName="GameMain/Models/islandfbm/island2" />
+      <Asset Guid="6c2232a700a2184439e8fbf9ad6395b7" AssetBundleName="GameMain/Models/island" />
+      <Asset Guid="6c70ca738bbcaaa4db4ec4dd2a7ec433" AssetBundleName="GameMain/UI/UISprites/Common/cricle" />
+      <Asset Guid="6cbc2c323b77f804fb958fa4eca33998" AssetBundleName="GameMain/UI/UISprites/Common/line" />
+      <Asset Guid="6cf9a6bcff21a7445a041a04b1743957" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="6d9b42ac01f24bf4d98923573f103575" AssetBundleName="GameMain/Textures/prop_asteroid_02_nrm" />
+      <Asset Guid="6db0c8354d868834abf29840037591b1" AssetBundleName="GameMain/Textures/vehicle_playerShip_orange_nrm" />
+      <Asset Guid="6e023ca4283b3a7469cd61d24c83048c" AssetBundleName="GameMain/Textures/vehicle_enemyShip_nrm" />
+      <Asset Guid="6e3730451fa077346abd4ac642ea71d8" AssetBundleName="GameMain/Textures/fx_lazer_cyan_dff" />
+      <Asset Guid="6e5d026bf0652ed4380f6a66f4aa26c5" AssetBundleName="GameMain/Textures/vehicle_enemyShip_purple_dff" />
+      <Asset Guid="6e78dcc41db62ff4c9731b9dcd307f31" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="706d0330ee6301c4db85b1fce7bdb183" AssetBundleName="GameMain/Effect/materials/path_003" />
+      <Asset Guid="71646ebaae78d43aeb8b53cacdb69671" AssetBundleName="GameMain/Textures/tile_nebula_green_dff" />
+      <Asset Guid="71a4c32c606a4654d8d7c1bba623c04d" AssetBundleName="GameMain/UI/UISprites/result/paiwei1" />
+      <Asset Guid="72c39e4dce4916b428dfd984951ae6a9" AssetBundleName="GameMain/Models/Materials/ball" />
+      <Asset Guid="72e76810224064300b7d32e8322a5d12" AssetBundleName="GameMain/Sounds/explosion_enemy" />
+      <Asset Guid="7345fb2d3f7fe6f4d8d32004fdd810ed" AssetBundleName="GameMain/skybox/Skybox_back" />
+      <Asset Guid="73b765dbf4b9efb4f8821729a7a265f6" AssetBundleName="GameMain/Models/islandfbm/island4" />
+      <Asset Guid="750d9a0978ee93c4fac40392859ed654" AssetBundleName="GameMain/UI/UISprites/Sprite/jiesuan" />
+      <Asset Guid="75f3a812e9f991b498a8cf962aed03e6" AssetBundleName="GameMain/Models/Materials/bj4" />
+      <Asset Guid="77ae3a65461420243b51c483798cad26" AssetBundleName="GameMain/UI/UISprites/Images/img_serverlist_bg" />
+      <Asset Guid="77cbb7c5404c10242ab59953e0746314" AssetBundleName="GameMain/Localization/ChineseSimplified/Fonts/MainFont" />
+      <Asset Guid="78a13ae8340349444a97c5e9e2b4f216" AssetBundleName="GameMain/UI/UISprites/CreateRole/logininput" />
+      <Asset Guid="7a628ca37ae668a42a1ceb8d58614181" AssetBundleName="GameMain/Materials/golf/qiuchang" />
+      <Asset Guid="7b12aae6e2ac94c4a93a9776412978d3" AssetBundleName="GameMain/UI/UISprites/Common/FlightPathLine" />
+      <Asset Guid="7b3b968dfe91e7c4ba2162c5df6c4b6f" AssetBundleName="GameMain/Effect/texture/path_003" />
+      <Asset Guid="7e91cd9bad7babf4b975882a4b7453cb" AssetBundleName="GameMain/Textures/part_spark_large_dff" />
+      <Asset Guid="7eae0d2701845a54aa570b07c55dab44" AssetBundleName="GameMain/Textures/prop_asteroid_03_nrm" />
+      <Asset Guid="7f5aee8da226edf4991598327cb32ce0" AssetBundleName="GameMain/UI/UISprites/Logos/unity-logo" />
+      <Asset Guid="803573112f956a24ca36f2289d313004" AssetBundleName="GameMain/UI/UISprites/result/paiwei2" />
+      <Asset Guid="80ee829b51a66134d93511a4bb7e6a93" AssetBundleName="GameMain/Effect/materials/path_006" />
+      <Asset Guid="8133d11375cd0eb4997c8669f2437ae9" AssetBundleName="GameMain/Models/island" />
+      <Asset Guid="81a7fed1587aa5145a74148d11b45c88" AssetBundleName="GameMain/Models/bjfbm/bj4" />
+      <Asset Guid="81b0a4257339e604e897a22e4bdc1834" AssetBundleName="GameMain/Effect/texture/ring_001" />
+      <Asset Guid="82f1aeb67a5b8514cab89fa2faf89784" AssetBundleName="GameMain/UI/UISprites/Sprite/miniMap" />
+      <Asset Guid="834d60f13e539334ba17f41c12bb69c0" AssetBundleName="GameMain/UI/UISprites/Sprite/WHITE" />
+      <Asset Guid="836be25be3e1e8c41ae5545bc8a9a4d7" AssetBundleName="GameMain/Textures/prop_asteroid_03_dff" />
+      <Asset Guid="83bcbf8d46c75e54da811f7867a06a66" AssetBundleName="GameMain/Materials/golf/island5" />
+      <Asset Guid="845d510669059fe49bd6887d24df828c" AssetBundleName="GameMain/Models/golffbm/qiuchang" />
+      <Asset Guid="84d9701f74631b843acc8c7d0fdcc37c" AssetBundleName="GameMain/Models/Trees" />
+      <Asset Guid="853931c130295af4cb788912cac10b30" AssetBundleName="GameMain/Models/Materials/island8" />
+      <Asset Guid="88a640b66bd74f940952056288970aa6" AssetBundleName="GameMain/Materials/golf/island6" />
+      <Asset Guid="892b16534e108214893f3fae95517efd" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="8958ff6da2f238d4d93727dd53555e85" AssetBundleName="GameMain/ModelPres/tu" />
+      <Asset Guid="89fe2a7ceeef89d48a2f525175c0129f" AssetBundleName="GameMain/Effect/texture/smoke_004" />
+      <Asset Guid="8a31560df581c0048bd8133fde9140f3" AssetBundleName="GameMain/UI/UISprites/Sprite/golf" />
+      <Asset Guid="8a75ac244c32dc84d9c7779b1b603358" AssetBundleName="GameMain/Models/bj" />
+      <Asset Guid="8dbb02538afec8346871a3d809dea23a" AssetBundleName="GameMain/Effect/mesh/fangge_plane" />
+      <Asset Guid="91812f9e58a3fcb47b458745f011c5ce" AssetBundleName="GameMain/Effect/materials/smoke_004" />
+      <Asset Guid="938ad86187e70ac4687e88bafe35f1a6" AssetBundleName="GameMain/Effect/texture/smoke_001" />
+      <Asset Guid="9450675caf18e324fa199b00ba691a7e" AssetBundleName="GameMain/Models/Treesfbm/tree5" />
+      <Asset Guid="948bbc40835120247ac97e055fe8ea80" AssetBundleName="GameMain/Effect/prefab/tx_tuowei" />
+      <Asset Guid="962dbb8728745624ea16af88983bf1df" AssetBundleName="GameMain/Materials/golf/tree5" />
+      <Asset Guid="97a1085a2a9ca432493855e6a6cb168a" AssetBundleName="GameMain/UI/UISprites/Common/loginbutton" />
+      <Asset Guid="99322839371954f4f8ebe53275af0c8e" AssetBundleName="GameMain/Models/huacao" />
+      <Asset Guid="9a4b96259aee88e4c8990ecb6e801a92" AssetBundleName="GameMain/Models/Materials/tree1" />
+      <Asset Guid="9ab602dd5c088064ab89c2e9ec81a7f3" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="9ba7b3f915a170c429cc98cfc6e212b4" AssetBundleName="GameMain/Materials/golf/bj4" />
+      <Asset Guid="9be2e1e45f4edd74c8764538ad306b78" AssetBundleName="GameMain/Localization/ChineseSimplified/Dictionaries/Default" />
+      <Asset Guid="9c3961f379234354e813d7b38146424d" AssetBundleName="GameMain/DataTables/Thruster" />
+      <Asset Guid="9dc8b352ddf9d2d46a92e0026593bc82" AssetBundleName="GameMain/Models/Trees" />
+      <Asset Guid="9f0f27a84fed90f4aabf70bdeedcecc2" AssetBundleName="GameMain/Models/Materials/island5" />
+      <Asset Guid="9f847ec5e66e03e4ead1d3c5f7b510e8" AssetBundleName="GameMain/UI/UISprites/Common/button-filled" />
+      <Asset Guid="a019ae3af8e864616b85773c509f5285" AssetBundleName="GameMain/Sounds/explosion_player" />
+      <Asset Guid="a0cdf2c015e80ff4fa4f79fa221a6da4" AssetBundleName="GameMain/Models/islandfbm/island3" />
+      <Asset Guid="a12edad63f3725a4fb055fb48dc7126b" AssetBundleName="GameMain/Models/golffbm/caopi" />
+      <Asset Guid="a1738e7363f3f724fa3f3a2307a4b9ef" AssetBundleName="GameMain/Models/Treesfbm/tree2" />
+      <Asset Guid="a175a55baa4154f41877b4488d6c31f4" AssetBundleName="GameMain/Materials/golf/tree4" />
+      <Asset Guid="a1cbed4739caf48e5a1f33cf7e1f7c31" AssetBundleName="GameMain/UI/UIForms/MessageForm" />
+      <Asset Guid="a3d940c79089b22489fb955ddc4deef5" AssetBundleName="GameMain/skybox/Skybox_up" />
+      <Asset Guid="a3ddd889a7109454296903b6eaab835c" AssetBundleName="GameMain/Models/islandfbm/island8" />
+      <Asset Guid="a4e0b564144f7a143b24ddd69cddd6b6" AssetBundleName="GameMain/Materials/golf/ball" />
+      <Asset Guid="a60fdfbb02f4126458201f0d0b2cfd6c" AssetBundleName="GameMain/UI/UISprites/Buttons/btn_back" />
+      <Asset Guid="a71f8bb1b1b2c51438e2bafc884cb02c" AssetBundleName="GameMain/DataTables/Scene" />
+      <Asset Guid="a75f813b0294c064192c66d0e628c5ba" AssetBundleName="GameMain/UI/UISprites/result/shadow" />
+      <Asset Guid="a8b1eca8940c9b343bad13d3f9a8df9c" AssetBundleName="GameMain/Models/Materials/tree4" />
+      <Asset Guid="a8c07bbe04fdaf04b80e27f651a8edd6" AssetBundleName="GameMain/UI/UISprites/Common/button-outline" />
+      <Asset Guid="a9f56887b2429de42bb2c1ebe4e17e41" AssetBundleName="GameMain/Models/dimian" />
+      <Asset Guid="ab45c3f613f388d43bbf43ec05eb92e2" AssetBundleName="GameMain/UI/UISprites/Common/dialog-background" />
+      <Asset Guid="ab4774faf71b57a40a29a9e902403fe3" AssetBundleName="GameMain/DataTables/Weapon" />
+      <Asset Guid="abcdfad3821740546b3d9344e4617cc1" AssetBundleName="GameMain/Effect/prefab/tx_luoshui" />
+      <Asset Guid="ac5023a4e0a12a8498c4a4a39c932163" AssetBundleName="GameMain/UI/UISprites/Sprite/rank_item" />
+      <Asset Guid="ad56aae2bb0f2ce4a86711287e14e223" AssetBundleName="GameMain/DataTables/Asteroid" />
+      <Asset Guid="ae6a7f967521769458b0913fa39caaf4" AssetBundleName="GameMain/Textures/prop_asteroid_01_dff" />
+      <Asset Guid="af756618e7fcd33498beea5cadb0be38" AssetBundleName="GameMain/Effect/materials/smoke_005" />
+      <Asset Guid="b031b4f2980561542a7f7ba41391edc3" AssetBundleName="GameMain/Scenes/Menu" />
+      <Asset Guid="b0ac3e89c58fb6e489731647e580b098" AssetBundleName="GameMain/UI/UISprites/result/paiwei4" />
+      <Asset Guid="b14d0a4e56eb7fe489ae6ead7cde65c9" AssetBundleName="GameMain/Models/lotus" />
+      <Asset Guid="b1a2046e05f4c4e9682e0624c21da7e1" AssetBundleName="GameMain/UI/UIForms/VideoForm" />
+      <Asset Guid="b233a73d6e901405db337c30c1e9b819" AssetBundleName="GameMain/UI/UIForms/UserForm" />
+      <Asset Guid="b2cebe04343227945bab3729ca9a3493" AssetBundleName="GameMain/DataTables/Armor" />
+      <Asset Guid="b50fb9b5b82e2ed469767fcce0d71ad5" AssetBundleName="GameMain/Materials/golf/island4" />
+      <Asset Guid="b55aa4690d2a14147be987c9863a32ee" AssetBundleName="GameMain/Models/Trees" />
+      <Asset Guid="b591d7c95239612428db34d199649642" AssetBundleName="GameMain/UI/UIForms/QRCodeLoginForm" />
+      <Asset Guid="b6ab52011f4a91c44883f3adfcbeb8ab" AssetBundleName="GameMain/Models/bjfbm/bj2" />
+      <Asset Guid="b6db3bc34a31bf549b4c8866ac2b79cf" AssetBundleName="GameMain/Models/bjfbm/bj3" />
+      <Asset Guid="b99ef808c42b5f04882a3963e15527d2" AssetBundleName="GameMain/Models/Materials/tree5" />
+      <Asset Guid="ba157ba55f72c424a9e88f3c029997c4" AssetBundleName="GameMain/Textures/prop_asteroid_02_dff" />
+      <Asset Guid="bbfd75fe6fe00e1448fe988173ede7f9" AssetBundleName="GameMain/UI/UIForms/SettingForm" />
+      <Asset Guid="bc14f0d15b804544cb8cabac9d7ffd7e" AssetBundleName="GameMain/UI/UIForms/LoginForm" />
+      <Asset Guid="be13901bd3823fc4e99cc236d4ff5341" AssetBundleName="GameMain/UI/UISprites/Sprite/bg" />
+      <Asset Guid="be25218553db1d545a5f3cf214bbf030" AssetBundleName="GameMain/Materials/golf/dizhuan" />
+      <Asset Guid="be5b12621dd0cda458f2cce5d289473b" AssetBundleName="GameMain/Models/golffbm/ball_N" />
+      <Asset Guid="bf75b984df8a84987bcf3a8bf6e2862d" AssetBundleName="GameMain/Sounds/weapon_player" />
+      <Asset Guid="bf8ca81119759b843941f638815420ae" AssetBundleName="GameMain/Effect/materials/smoke_001" />
+      <Asset Guid="c0381dae8d4d12642a30d83e4391ca39" AssetBundleName="GameMain/UI/UISprites/Sprite/golf_ball" />
+      <Asset Guid="c18750ab49eaa11498e3894f6379197c" AssetBundleName="GameMain/Textures/WaterProDaytimeGradient" />
+      <Asset Guid="c1c75692610674b49951bef8ba2f1cd7" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="c2a418a2cc9c10d4b9e0bb48e7aa0c9b" AssetBundleName="GameMain/Models/Materials/tiesiwang" />
+      <Asset Guid="c345ae5fd4c8c674b96641a80766b94c" AssetBundleName="GameMain/Effect/texture/piont_001" />
+      <Asset Guid="c43288abbfec9fb42bd18438b67759cf" AssetBundleName="GameMain/Materials/golf/island1" />
+      <Asset Guid="c4a1fde8675288f46a1275b55d7f4137" AssetBundleName="GameMain/Models/Materials/caodi2" />
+      <Asset Guid="c515415777d246f4490b69b1672e5d0b" AssetBundleName="GameMain/Effect/prefab/tx_jida" />
+      <Asset Guid="c51864591ea4e7242b775a1411365ed8" AssetBundleName="GameMain/Effect/texture/wenli_014" />
+      <Asset Guid="c68ed6546aadee64fb58ddc08af34c34" AssetBundleName="GameMain/UI/UISprites/CreateRole/loginbutton" />
+      <Asset Guid="c6ca657cd7a1cc0489265385118b065d" AssetBundleName="GameMain/Models/Materials/lotus" />
+      <Asset Guid="c73ffe4c9eaafe748b16421c1532b930" AssetBundleName="GameMain/UI/UIForms/OldLoginForm" />
+      <Asset Guid="c7d1e11dd37634b48a9dd4012b8e4306" AssetBundleName="GameMain/UI/UISounds/click" />
+      <Asset Guid="c7ff76f75e0473142adca43b7b78f9dc" AssetBundleName="GameMain/Animator/SenceCamera/GameCamera" />
+      <Asset Guid="c8161d11fda2eac4aab91e93aab2b58f" AssetBundleName="GameMain/UI/UIForms/RegisterForm" />
+      <Asset Guid="ca710735b164ae949b99394420abcf17" AssetBundleName="GameMain/UI/UISprites/result/paiwei5" />
+      <Asset Guid="caa829ab2ffc71340a69253afdf58365" AssetBundleName="GameMain/Music/music_menu" />
+      <Asset Guid="cadd0764941c8b646ae79b51d0ea8285" AssetBundleName="GameMain/UI/UISprites/Common/background" />
+      <Asset Guid="cc4f98662c7059747aae52ed95ec98d1" AssetBundleName="GameMain/UI/UIForms/ResultForm" />
+      <Asset Guid="cd663bc67ad3496488d3c1516accbc3d" AssetBundleName="GameMain/Effect/materials/smoke_003" />
+      <Asset Guid="ce6299f1eb1c5c14bb0b87a29744dfbc" AssetBundleName="GameMain/UI/UISprites/result/title" />
+      <Asset Guid="ce7a1d4f13688344b99c80fcf57482fc" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="cfe53cf384344bd47a8680f8c5f97a7b" AssetBundleName="GameMain/DataTables/Entity" />
+      <Asset Guid="d085ad18659a2c848969da8babb5ab9e" AssetBundleName="GameMain/Models/zhiwufbm/zhiwu" />
+      <Asset Guid="d0d2fd9c011362e408c8528c2f31467a" AssetBundleName="GameMain/Materials/golf/island8" />
+      <Asset Guid="d16eaa3879c4aa8489bb3ce5f4e92d49" AssetBundleName="GameMain/UI/UISprites/CreateRole/img_showcase_editrole" />
+      <Asset Guid="d49f9ace8d4d426499917b997276e19c" AssetBundleName="GameMain/UI/UISprites/Sprite/red_point" />
+      <Asset Guid="d4b166d356b5a2a4392cb70cb43ae5ae" AssetBundleName="GameMain/Effect/texture/smoke_005" />
+      <Asset Guid="d56afb321e8224a44ab1c079481d1630" AssetBundleName="GameMain/Models/Materials/island1" />
+      <Asset Guid="d5f0556743d8a41418b34beebf9b5015" AssetBundleName="GameMain/Effect/texture/path_006" />
+      <Asset Guid="d7889985f2be7dd4fa26156ade512dce" AssetBundleName="GameMain/Models/tu" />
+      <Asset Guid="d9fd2ca1975ca4347ad1d232a032ff0f" AssetBundleName="GameMain/Materials/golf/tree2" />
+      <Asset Guid="da81d303411e09648a96910efcf4dc3a" AssetBundleName="GameMain/Effect/materials/ring_001" />
+      <Asset Guid="dacb0edc2831a3443bd1848cfc61115b" AssetBundleName="GameMain/Models/golffbm/dizhuan" />
+      <Asset Guid="db58965402f12ed47b4dad61a9e48c9d" AssetBundleName="GameMain/UI/UISprites/Icons/world" />
+      <Asset Guid="dbe0e95d776111042b36efdb95d55057" AssetBundleName="GameMain/Models/island" />
+      <Asset Guid="dce0abeb4abf1094daf7f975e1b3a1e9" AssetBundleName="GameMain/Models/golffbm/Trees" />
+      <Asset Guid="dd3c47d5fe635485ea10c4bc2305371d" AssetBundleName="GameMain/Shader/loading" />
+      <Asset Guid="de0756a27623daf45b321f39b6e2f72d" AssetBundleName="GameMain/Materials/tu" />
+      <Asset Guid="de7d4e7faf74d3543811eda36ace58a0" AssetBundleName="GameMain/Materials/golf/water" />
+      <Asset Guid="debb13df4f2f36b43a9a78d7fa637931" AssetBundleName="GameMain/Models/Materials/tree2" />
+      <Asset Guid="dfad0a57bde88ac4fb8f85a7b1c08daf" AssetBundleName="GameMain/Models/Materials/island6" />
+      <Asset Guid="e2192d20f86a1844cbee96cb76168802" AssetBundleName="GameMain/UI/UISprites/Sprite/bag" />
+      <Asset Guid="e5c6f610197593643873b81b5d76ce7f" AssetBundleName="GameMain/Effect/materials/piont_001" />
+      <Asset Guid="e5ca26c53b6ab8a46b52817008d7c7fa" AssetBundleName="GameMain/UI/UISprites/Icons/sound" />
+      <Asset Guid="e5fdbf6e34d5abe4d8df1a599503d76f" AssetBundleName="GameMain/Effect/materials/smoke_002" />
+      <Asset Guid="e6dfdfe5a4d603146be32e376cdb36fa" AssetBundleName="GameMain/Models/golffbm/ball" />
+      <Asset Guid="e7374a84a670f774a80acdb9ae67df1d" AssetBundleName="GameMain/skybox/Skybox_front" />
+      <Asset Guid="e73b0da05b746b6469be3c8e15aee9de" AssetBundleName="GameMain/Models/huacao" />
+      <Asset Guid="e7e0edea89c90b74f9b898840b2eab49" AssetBundleName="GameMain/Materials/golf/qiu" />
+      <Asset Guid="e82837c9099f69a48b48fc44eb8d119d" AssetBundleName="GameMain/UI/UISprites/Common/progressbar" />
+      <Asset Guid="e830964cdb85ff3429bca484c16bab44" AssetBundleName="GameMain/UI/UISounds/select" />
+      <Asset Guid="e85864330b68dde498dcb6e8711815d3" AssetBundleName="GameMain/UI/UISprites/Common/round-button-filled" />
+      <Asset Guid="e93c1e38c4549c840a8206d04b7c6044" AssetBundleName="GameMain/UI/UISprites/Sprite/remove" />
+      <Asset Guid="e9a4933354fcbc94a99278553438e6dd" AssetBundleName="GameMain/Materials/golf/Trees" />
+      <Asset Guid="eabb37cb6d738b443b398b701a64cd88" AssetBundleName="GameMain/Textures/part_enginePulse_dff" />
+      <Asset Guid="eb603cbe67fb72843b870f4ec84691e5" AssetBundleName="GameMain/ModelPres/dimian" />
+      <Asset Guid="ebf149fbcf9e2cf4392ed58109ad46a3" AssetBundleName="GameMain/Materials/golf/island3" />
+      <Asset Guid="ecc634edc028b764a8786d834713a798" AssetBundleName="GameMain/Models/Materials/bj1" />
+      <Asset Guid="ee0481abd0cce8d4793173cacd1293df" AssetBundleName="GameMain/skybox/Skybox" />
+      <Asset Guid="f2208bcd305dfb5469073bceed7553f6" AssetBundleName="GameMain/Models/islandfbm/island1" />
+      <Asset Guid="f270800bd8291e343a979451a37c0b76" AssetBundleName="GameMain/Models/Materials/caopi" />
+      <Asset Guid="f2a13f7942d1043a9a26d4ee7631673f" AssetBundleName="GameMain/Materials/LineEnd" />
+      <Asset Guid="f2e98a79562756d4487360b8bd03250c" AssetBundleName="GameMain/UI/UISprites/Sprite/xuxian" />
+      <Asset Guid="f2f4df0b7211e4c42a5638273525d8ee" AssetBundleName="GameMain/UI/UISprites/Common/box" />
+      <Asset Guid="f2f97a713beae744181ba934f9c4113a" AssetBundleName="GameMain/DataTables/UISound" />
+      <Asset Guid="f438a72a91e1c3c4a9ced40888ffec96" AssetBundleName="GameMain/UI/UISprites/Icons/music" />
+      <Asset Guid="f55a937f0a3280a40b05976102f95425" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="f58896e4735f85440b13bae5bc939f99" AssetBundleName="GameMain/Models/Materials/phong8" />
+      <Asset Guid="f5bfa5d70021fee44b86d14d23818032" AssetBundleName="GameMain/Models/bjfbm/bj1" />
+      <Asset Guid="f6db5bbdfe0e9894798706814cd6b336" AssetBundleName="GameMain/Textures/prop_asteroid_01_nrm" />
+      <Asset Guid="f6fe0f2b61a4e4b46ad3e1a700c65261" AssetBundleName="GameMain/Materials/golf/bj1" />
+      <Asset Guid="f9982c6d3f23d7c4786267a2ebd2e8e1" AssetBundleName="GameMain/Models/islandfbm/island6" />
+      <Asset Guid="fa04558dd84160d4b97facce7b0440c6" AssetBundleName="GameMain/Models/golf" />
+      <Asset Guid="fc2aec3b7f192f449bf93ae5920555bd" AssetBundleName="GameMain/Models/bj" />
+      <Asset Guid="fcd75ada634912e408ea3bf80f514445" AssetBundleName="GameMain/Effect/texture/path_008" />
+      <Asset Guid="fd232acf79ece9442af3850c17ed27f0" AssetBundleName="GameMain/Animator/UI/ScoreUI" />
+      <Asset Guid="fd336abbdd34efe458f8b18307ad2cc7" AssetBundleName="GameMain/Models/island" />
+      <Asset Guid="fd3bb2d8feb665844bac009dbd363aaa" AssetBundleName="GameMain/Models/zhiwu" />
+      <Asset Guid="fd3cbf51780694849b9b019b36a3938e" AssetBundleName="GameMain/Textures/fx_lazer_orange_dff" />
+      <Asset Guid="fd52b106f2bb23d4ba2a39eeada10a4a" AssetBundleName="GameMain/UI/UISprites/Sprite/score_bg" />
+    </Assets>
+  </AssetBundleCollection>
+</UnityGameFramework>
